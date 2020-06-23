@@ -1,3 +1,3 @@
 # InteraxisCA.github.io
 
-## Busqueda de informacion de pentestt  
+## Busqueda de informacion de pentest  
